@@ -56,9 +56,12 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+
 
 ## Output:
+
+![image](https://github.com/user-attachments/assets/f558dbc0-33e4-4e35-bb3a-791343240f5f)
+
 
 ### Name: 
 ### Register Number:
